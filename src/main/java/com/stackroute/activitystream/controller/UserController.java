@@ -1,5 +1,6 @@
 
 //Author Harsha
+//controller for User Module
 package com.stackroute.activitystream.controller;
 import javax.servlet.http.HttpSession;
 
